@@ -1,0 +1,37 @@
+#s-18ad1943-6595-4efd-ab76-7db5b6ae047b #s-dialogoSalir {
+  -ms-transform: rotate(0.0deg);
+}
+#s-18ad1943-6595-4efd-ab76-7db5b6ae047b #s-btnCancelar {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  filter: alpha(opacity=0);
+  -ms-transform: rotate(0.0deg);
+}
+#s-18ad1943-6595-4efd-ab76-7db5b6ae047b #s-btnGuardarSalir {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  filter: alpha(opacity=0);
+  -ms-transform: rotate(0.0deg);
+}
+#s-18ad1943-6595-4efd-ab76-7db5b6ae047b #s-btnGuardarEnviarSalir {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  filter: alpha(opacity=0);
+  -ms-transform: rotate(0.0deg);
+}
+#s-18ad1943-6595-4efd-ab76-7db5b6ae047b #s-btnGuardarSalir_1 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  filter: alpha(opacity=0);
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-18ad1943-6595-4efd-ab76-7db5b6ae047b > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

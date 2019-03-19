@@ -1,0 +1,98 @@
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb > #alignmentBox {
+  position: relative;
+  max-width: 800px;
+  max-height: 1280px;
+  width: 100%;
+  height: 100%;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-imgAudio {
+  position: absolute;
+  width: 556px;
+  height: 391px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-imgAudio > img, #s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-imgAudio > svg {
+  height: 391px;
+  width: 556px;
+  box-shadow: none;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-btnStop > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  box-shadow: none;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-btnStop {
+  position: absolute;
+  width: 61px;
+  height: 80px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Roboto-Regular',Arial;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-btnStop > .clipping, #s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-btnStop > .paddingLayer {
+  height: 80px;
+  width: 61px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-btnStop .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-btnStop span {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-btnStop span#rtr-s-btnStop_0 {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

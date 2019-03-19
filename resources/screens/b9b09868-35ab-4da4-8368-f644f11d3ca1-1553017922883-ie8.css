@@ -1,0 +1,38 @@
+#s-b9b09868-35ab-4da4-8368-f644f11d3ca1 #s-imgImputado {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b9b09868-35ab-4da4-8368-f644f11d3ca1 #s-imgNo {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b9b09868-35ab-4da4-8368-f644f11d3ca1 #s-imgSi {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-b9b09868-35ab-4da4-8368-f644f11d3ca1 #s-txtPregunta {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-b9b09868-35ab-4da4-8368-f644f11d3ca1 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

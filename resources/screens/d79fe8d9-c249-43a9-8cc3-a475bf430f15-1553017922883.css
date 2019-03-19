@@ -1,0 +1,98 @@
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 > #alignmentBox {
+  position: relative;
+  max-width: 800px;
+  max-height: 1280px;
+  width: 100%;
+  height: 100%;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-DialogoFormulario {
+  position: absolute;
+  width: 541px;
+  height: 140px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-DialogoFormulario > img, #s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-DialogoFormulario > svg {
+  height: 140px;
+  width: 541px;
+  box-shadow: none;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-btnOk > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  box-shadow: none;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-btnOk {
+  position: absolute;
+  width: 78px;
+  height: 30px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'RobotoCondensed-Regular',Arial;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-btnOk > .clipping, #s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-btnOk > .paddingLayer {
+  height: 30px;
+  width: 78px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-btnOk .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-btnOk span {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'RobotoCondensed-Regular',Arial;
+  font-size: 10.0pt;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-btnOk span#rtr-s-btnOk_0 {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'RobotoCondensed-Regular',Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

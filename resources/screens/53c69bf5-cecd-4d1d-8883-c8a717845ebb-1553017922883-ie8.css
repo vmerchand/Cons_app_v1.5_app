@@ -1,0 +1,26 @@
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-imgAudio {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb #s-btnStop {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-53c69bf5-cecd-4d1d-8883-c8a717845ebb > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

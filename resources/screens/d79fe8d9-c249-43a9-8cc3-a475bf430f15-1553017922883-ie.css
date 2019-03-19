@@ -1,0 +1,20 @@
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-DialogoFormulario {
+  -ms-transform: rotate(0.0deg);
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 #s-btnOk {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-d79fe8d9-c249-43a9-8cc3-a475bf430f15 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

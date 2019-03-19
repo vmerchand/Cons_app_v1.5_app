@@ -1,0 +1,50 @@
+#s-e59cafce-2294-4653-ac36-2651a7082c2c #s-btnInicial {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-e59cafce-2294-4653-ac36-2651a7082c2c #s-btnIntermedia {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-e59cafce-2294-4653-ac36-2651a7082c2c #s-btnAudienciaOral {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-e59cafce-2294-4653-ac36-2651a7082c2c #s-btnAudienciaProcedimiento {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-e59cafce-2294-4653-ac36-2651a7082c2c #s-btnSuspension {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-e59cafce-2294-4653-ac36-2651a7082c2c #s-btnPolicia {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-e59cafce-2294-4653-ac36-2651a7082c2c > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

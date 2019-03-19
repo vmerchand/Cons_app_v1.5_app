@@ -1,0 +1,94 @@
+#s-96d8b75c-9af2-411a-860c-f983eab0380f > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f > #alignmentBox {
+  position: relative;
+  max-width: 800px;
+  max-height: 1280px;
+  width: 100%;
+  height: 100%;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-errorSalirFormulario {
+  position: absolute;
+  width: 541px;
+  height: 140px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-errorSalirFormulario > img, #s-96d8b75c-9af2-411a-860c-f983eab0380f #s-errorSalirFormulario > svg {
+  height: 140px;
+  width: 541px;
+  box-shadow: none;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-Rectangle_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #D9D9D9;
+  background-image: none;
+  box-shadow: none;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-Rectangle_1 {
+  position: absolute;
+  width: 75px;
+  height: 34px;
+  opacity: 0.0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'RobotoCondensed-Regular',Arial;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-Rectangle_1 > .clipping, #s-96d8b75c-9af2-411a-860c-f983eab0380f #s-Rectangle_1 > .paddingLayer {
+  height: 34px;
+  width: 75px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-Rectangle_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-Rectangle_1 span {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'RobotoCondensed-Regular',Arial;
+  font-size: 10.0pt;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-Rectangle_1 span#rtr-s-Rectangle_1_0 {
+  color: #808080;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'RobotoCondensed-Regular',Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

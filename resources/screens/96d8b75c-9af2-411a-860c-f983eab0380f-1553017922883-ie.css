@@ -1,0 +1,22 @@
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-errorSalirFormulario {
+  -ms-transform: rotate(0.0deg);
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f #s-Rectangle_1 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  filter: alpha(opacity=0);
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-96d8b75c-9af2-411a-860c-f983eab0380f > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

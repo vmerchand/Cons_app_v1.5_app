@@ -1,0 +1,56 @@
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-txtControlDetencion {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-txtFechaVisita {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-iconFecha {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-txtCentroJusticia {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-comboCentroJusticia-options {
+  background-color: #F3F3F3;
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-txtEstado {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-comboEstado-options {
+  background-color: #EFEFEF;
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-mexicoIcon {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-salaIcon {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-salasTribunal {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-txtSalasImputado {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-txtSalasTestigo {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-txtTotalSalas {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb #s-btnContinuar {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-2ed531ac-a968-4769-9bb5-0bb943e08acb > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
